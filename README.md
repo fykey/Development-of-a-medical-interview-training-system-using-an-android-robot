@@ -1,7 +1,7 @@
 # Development-of-a-medical-interview-training-system-using-an-android-robot
 研究内容．人工筋肉で実際に表情が動くロボットを使った，医学部生のための医療面接訓練の開発を行っている．
 
-![S__49709099](https://user-images.githubusercontent.com/73433285/178558213-45778046-a477-41ac-883f-d15cf3587e5d.jpg)
+![画像1](https://user-images.githubusercontent.com/73433285/178560137-7a30a4e1-aff2-4c1c-9be5-165e8b5b3f7b.png)
 
 診察動画を取って，OpenFaceのFeatureExtractionのアプリで，動画上の特徴点の変位や，そこから算出されるパラメータを取得．
 そのパラメータをつかって，うなずき回数，アイコンタクト，発話区間，表情などを自動で計測するプログラムの開発を行っています．
